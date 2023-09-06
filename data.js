@@ -1,0 +1,1 @@
+const api_endpoint = 'https://api.quotable.io/random'
